@@ -1,0 +1,16 @@
+.user-wrapper {
+  background-color: #fff;
+  width: 80%;
+  margin: 0 auto;
+  padding-bottom: 40px;
+  .user-header {
+    height: 64px;
+    display: flex;
+    align-items: center;
+    padding: 4px 18px;
+    justify-content: space-between;
+    .header-suffix {
+      cursor: pointer;
+    }
+  }
+}
